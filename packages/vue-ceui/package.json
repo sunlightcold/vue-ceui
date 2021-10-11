@@ -1,0 +1,11 @@
+{
+  "name": "vue-ceui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "es/index.ts",
+  "module": "es/index.ts",
+  "style": "themes/index.css",
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}
