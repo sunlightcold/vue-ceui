@@ -7,11 +7,11 @@
 
 <script lang="ts">
 import { defineComponent } from 'vue';
+// @ts-ignore
 import { CeButton } from '@vue-ceui/components';
 import { ElButton } from 'element-plus';
 import 'element-plus/dist/index.css';
-// import { CeButton } from '../dist/es';
-// import '../dist/themes/index.css';
+import '@vue-ceui/themes/src/index.scss';
 
 export default defineComponent({
   components: {

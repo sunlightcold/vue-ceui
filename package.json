@@ -38,6 +38,8 @@
     "typescript": "^4.4.3"
   },
   "dependencies": {
+    "@vue-ceui/components": "workspace:^1.0.0",
+    "@vue-ceui/themes": "workspace:^1.0.0",
     "@vue-ceui/utils": "workspace:^1.0.0",
     "element-plus": "^1.1.0-beta.19",
     "vue": "^3.2.19"
